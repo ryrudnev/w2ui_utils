@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = W2uiUtils::VERSION
   spec.authors       = ["rudnev"]
   spec.email         = ["ryrudnev@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Utilities for framework w2ui.}
+  spec.description   = %q{Utilities for framework w2ui.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
